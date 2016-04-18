@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331cb4bb-11ff-4a57-9f6c-178037bfee00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IntelliJIntroduction.iws" />
@@ -68,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CelsiusTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CelsiusTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -76,6 +76,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="105" selection-start-line="3" selection-start-column="105" selection-end-line="3" selection-end-column="105" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,6 +142,7 @@
         <option value="$PROJECT_DIR$/.classpath" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -139,6 +150,13 @@
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="40" />
@@ -678,7 +696,7 @@
       <workItem from="1457728183817" duration="1107000" />
       <workItem from="1457730568542" duration="1036000" />
       <workItem from="1459898702360" duration="57000" />
-      <workItem from="1460997825847" duration="1773000" />
+      <workItem from="1460997825847" duration="1885000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed issues with temperature classes">
       <created>1460998872436</created>
@@ -694,11 +712,18 @@
       <option name="project" value="LOCAL" />
       <updated>1460999085418</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add tests">
+      <created>1460999624866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1460999624866</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3973000" />
+    <option name="totallyTimeSpent" value="4085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1400" height="873" extended-state="0" />
@@ -745,7 +770,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed issues with temperature classes" />
     <MESSAGE value="Added Travis and other configuration files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Travis and other configuration files" />
+    <MESSAGE value="Add tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -977,6 +1003,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="105" selection-start-line="3" selection-start-column="105" selection-end-line="3" selection-end-column="105" />
+          <folding />
         </state>
       </provider>
     </entry>
